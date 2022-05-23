@@ -1,0 +1,17 @@
+//Name: Rhiannon Barber
+//Date: May 20, 2022
+//Lab One Assignment 
+
+LAB QUESTIONS 
+
+Question One:
+
+The ls > newfile.txt outputs the result of the command to the file created. I am gathering that the '>' works as an insertion operator. 
+
+Question Two:
+
+The git status says that the file "newfile.txt" has changes that will be commited. 
+
+Question Three: 
+
+The git diff command tells what has been changed within the contents of the file. In this case, it tells the lines added.
